@@ -1,0 +1,1 @@
+https://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method
